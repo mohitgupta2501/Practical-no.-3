@@ -1,4 +1,4 @@
-# Practical-no.-3
+# Practical no. 3
 
 ### **Project Management for Ayurvedic Management System**  
 
